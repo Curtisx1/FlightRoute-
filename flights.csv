@@ -1,0 +1,201 @@
+﻿Origin_airport,Destination_airport,Origin_city,Destination_city,Flights,Distance
+MHK,AMW,"Manhattan, KS","Ames, IA",1,254
+EUG,RDM,"Eugene, OR","Bend, OR",22,103
+SJC,EKO,"San Jose, CA","Elko, NV",1,407
+PNC,WDG,"Ponca City, OK","Enid, OK",49,45
+RCA,END,"Rapid City, SD","Enid, OK",2,604
+PIT,ERI,"Pittsburgh, PA","Erie, PA",63,109
+SLC,GYY,"Salt Lake City, UT","Gary, IN",1,1277
+GBD,HYS,"Great Bend, KS","Hays, KS",17,41
+HNL,ITO,"Honolulu, HI","Hilo, HI",51,216
+CLE,AOH,"Cleveland, OH","Lima, OH",1,124
+PHX,APC,"Phoenix, AZ","Napa, CA",1,663
+YIP,GUS,"Detroit, MI","Peru, IN",1,175
+ORD,RNO,"Chicago, IL","Reno, NV",60,1671
+YIP,RMG,"Detroit, MI","Rome, GA",1,551
+ABQ,TSM,"Albuquerque, NM","Taos, NM",66,111
+AUS,ACT,"Austin, TX","Waco, TX",1,95
+ANC,CNW,"Anchorage, AK","Waco, TX",1,3114
+BGR,THV,"Bangor, ME","York, PA",1,532
+BWI,YUM,"Baltimore, MD","Yuma, AZ",1,2158
+SFO,CAK,"San Francisco, CA","Akron, OH",1,2187
+RCA,LTS,"Rapid City, SD","Altus, OK",1,685
+FCA,BTM,"Kalispell, MT","Butte, MT",32,183
+FAT,CIC,"Fresno, CA","Chico, CA",1,239
+MIA,DOV,"Miami, FL","Dover, DE",3,961
+SNA,FAR,"Santa Ana, CA","Fargo, ND",1,1431
+LAN,FNT,"Lansing, MI","Flint, MI",1,45
+BIL,HVR,"Billings, MT","Havre, MT",5,198
+ABQ,HOB,"Albuquerque, NM","Hobbs, NM",1,254
+LRD,HUM,"Laredo, TX","Houma, LA",1,553
+PIR,HON,"Pierre, SD","Huron, SD",1,102
+IDA,LGU,"Idaho Falls, ID","Logan, UT",1,120
+MIA,MCN,"Miami, FL","Macon, GA",1,517
+MIA,WRB,"Miami, FL","Macon, GA",1,512
+LAX,MIA,"Los Angeles, CA","Miami, FL",33,2342
+MIA,TNT,"Miami, FL","Miami, FL",1,38
+MIA,OPF,"Miami, FL","Miami, FL",1,8
+EYW,MPB,"Key West, FL","Miami, FL",1,108
+FLL,TMB,"Fort Lauderdale, FL","Miami, FL",1,34
+GSP,MIO,"Greenville, SC","Miami, OK",1,724
+MSP,MOT,"Minneapolis, MN","Minot, ND",1,449
+MSP,MIB,"Minneapolis, MN","Minot, ND",11,457
+LEX,OCF,"Lexington, KY","Ocala, FL",1,626
+JAC,OGD,"Jackson, WY","Ogden, UT",1,179
+ORD,HIF,"Chicago, IL","Ogden, UT",1,1245
+IAH,OMA,"Houston, TX","Omaha, NE",4,781
+MIA,MIQ,"Miami, FL","Omaha, NE",3,1394
+BGR,OFF,"Bangor, ME","Omaha, NE",1,1390
+YIP,PHT,"Detroit, MI","Paris, TN",1,483
+SLC,PUC,"Salt Lake City, UT","Price, UT",1,104
+SAN,PVU,"San Diego, CA","Provo, UT",1,599
+PDX,SLE,"Portland, OR","Salem, OR",45,51
+TUL,SEM,"Tulsa, OK","Selma, AL",1,574
+RDU,TPA,"Raleigh, NC","Tampa, FL",90,587
+EWR,MCF,"Newark, NJ","Tampa, FL",1,1005
+ATL,TUL,"Atlanta, GA","Tulsa, OK",30,674
+RFD,RVS,"Rockford, IL","Tulsa, OK",1,563
+DFW,TYR,"Dallas, TX","Tyler, TX",70,103
+SMF,UKI,"Sacramento, CA","Ukiah, CA",20,92
+SYR,UCA,"Syracuse, NY","Utica, NY",1,37
+ATL,ABY,"Atlanta, GA","Albany, GA",236,146
+PHL,ALB,"Philadelphia, PA","Albany, NY",64,212
+MFR,CVO,"Medford, OR","Albany, OR",1,148
+DTW,APN,"Detroit, MI","Alpena, MI",57,198
+ROA,AHN,"Roanoke, VA","Athens, GA",1,300
+MEM,MMI,"Memphis, TN","Athens, TN",1,0
+ATL,AUO,"Atlanta, GA","Auburn, AL",1,92
+ICT,IN1,"Wichita, KS","Auburn, IN",3,707
+PDX,AUS,"Portland, OR","Austin, TX",1,1709
+PHL,BSM,"Philadelphia, PA","Austin, TX",1,1430
+ABQ,TX6,"Albuquerque, NM","Austin, TX",1,572
+RDU,BGR,"Raleigh, NC","Bangor, ME",1,809
+BFL,BIH,"Bakersfield, CA","Bishop, CA",1,139
+ROA,BOS,"Roanoke, VA","Boston, MA",1,590
+SLC,BYI,"Salt Lake City, UT","Burley, ID",2,153
+GCC,CPR,"Gillette, WY","Casper, WY",1,110
+ABQ,CVN,"Albuquerque, NM","Clovis, NM",74,205
+MIA,CVS,"Miami, FL","Clovis, NM",1,1497
+TUS,DFW,"Tucson, AZ","Dallas, TX",90,814
+TUL,DAL,"Tulsa, OK","Dallas, TX",81,237
+TPA,FTW,"Tampa, FL","Dallas, TX",1,945
+BGR,FWH,"Bangor, ME","Dallas, TX",1,1741
+LAS,AFW,"Las Vegas, NV","Dallas, TX",1,0
+MEM,ADS,"Memphis, TN","Dallas, TX",1,419
+MIA,DNE,"Miami, FL","Dallas, TX",1,1110
+MDW,DNN,"Chicago, IL","Dalton, GA",1,512
+LAN,DAY,"Lansing, MI","Dayton, OH",85,200
+DFW,MGY,"Dallas, TX","Dayton, OH",1,850
+PAM,FFO,"Panama City, FL","Dayton, OH",1,678
+ATL,DHN,"Atlanta, GA","Dothan, AL",228,171
+PDX,DLH,"Portland, OR","Duluth, MN",1,1451
+BWI,ESN,"Baltimore, MD","Easton, MD",1,41
+ITH,ELM,"Ithaca, NY","Elmira, NY",22,32
+MFR,EUG,"Medford, OR","Eugene, OR",53,122
+RDD,ACV,"Redding, CA","Eureka, CA",1,101
+CEC,EKA,"Crescent City, CA","Eureka, CA",4,68
+HIK,NFL,"Honolulu, HI","Fallon, NV",1,2625
+SNA,FAT,"Santa Ana, CA","Fresno, CA",98,238
+GTF,FCH,"Great Falls, MT","Fresno, CA",3,859
+PHX,GUP,"Phoenix, AZ","Gallup, NM",27,233
+BTM,HLN,"Butte, MT","Helena, MT",4,51
+BDL,1B1,"Hartford, CT","Hudson, NY",1,58
+PIT,ITH,"Pittsburgh, PA","Ithaca, NY",1,239
+FSM,JLN,"Fort Smith, AR","Joplin, MO",1,125
+SEA,JNU,"Seattle, WA","Juneau, AK",26,909
+JNU,JSE,"Juneau, AK","Juneau, AK",2,7
+ANC,ADQ,"Anchorage, AK","Kodiak, AK",21,252
+ANC,KDK,"Anchorage, AK","Kodiak, AK",1,248
+YIP,OKK,"Detroit, MI","Kokomo, IN",1,176
+YIP,LRD,"Detroit, MI","Laredo, TX",1,1353
+MCI,LUL,"Kansas City, MO","Laurel, MS",1,611
+DFW,LAW,"Dallas, TX","Lawton, OK",67,140
+GSP,LOZ,"Greenville, SC","London, KY",1,183
+OAK,MAE,"Oakland, CA","Madera, CA",1,127
+BHM,MWA,"Birmingham, AL","Marion, IL",3,316
+YIP,MZZ,"Detroit, MI","Marion, IN",1,164
+LIT,MNN,"Little Rock, AR","Marion, OH",1,645
+SCK,MCE,"Stockton, CA","Merced, CA",1,58
+GPT,MOB,"Gulfport, MS","Mobile, AL",1,53
+MEM,BFM,"Memphis, TN","Mobile, AL",0,324
+ATL,MLU,"Atlanta, GA","Monroe, LA",28,448
+BUF,MIE,"Buffalo, NY","Muncie, IN",1,392
+MIA,APF,"Miami, FL","Naples, FL",144,96
+BWI,EWR,"Baltimore, MD","Newark, NJ",2,169
+FAT,OXR,"Fresno, CA","Oxnard, CA",1,180
+MIA,PIA,"Miami, FL","Peoria, IL",1,1159
+EKO,PIR,"Elko, NV","Pierre, SD",1,826
+DFW,PUB,"Dallas, TX","Pueblo, CO",1,561
+BRL,UIN,"Burlington, IA","Quincy, IL",9,58
+RWI,RAC,"Rocky Mount, NC","Racine, WI",1,713
+GCK,RSN,"Garden City, KS","Ruston, LA",1,591
+STL,SLN,"St. Louis, MO","Salina, KS",8,393
+ALO,SRC,"Waterloo, IA","Searcy, AR",1,507
+IND,NC3,"Indianapolis, IN","Shelby, NC",1,401
+MIA,SSC,"Miami, FL","Sumter, SC",1,564
+YIP,SUM,"Detroit, MI","Sumter, SC",1,594
+HNL,TCM,"Honolulu, HI","Tacoma, WA",9,2659
+COS,GRF,"Colorado Springs, CO","Tacoma, WA",1,1067
+PDX,TIW,"Portland, OR","Tacoma, WA",1,116
+CLT,TOL,"Charlotte, NC","Toledo, OH",1,466
+LEX,TDZ,"Lexington, KY","Toledo, OH",1,256
+IND,FOE,"Indianapolis, IN","Topeka, KS",1,505
+ELP,TUS,"El Paso, TX","Tucson, AZ",0,268
+ACT,DMA,"Waco, TX","Tucson, AZ",1,803
+MCI,TUP,"Kansas City, MO","Tupelo, MS",2,479
+SAT,UVA,"San Antonio, TX","Uvalde, TX",1,80
+RKS,VEL,"Rock Springs, WY","Vernal, UT",1,83
+GRB,CWA,"Green Bay, WI","Wausau, WI",31,78
+RST,STE,"Rochester, MN","Wausau, WI",1,154
+LWS,YKM,"Lewiston, ID","Yakima, WA",1,169
+PDX,ABI,"Portland, OR","Abilene, TX",1,1523
+JFK,DYS,"New York, NY","Abilene, TX",2,1551
+YIP,AOO,"Detroit, MI","Altoona, PA",1,302
+HNL,AWX,"Honolulu, HI","Andrews, TX",1,3466
+YIP,ADM,"Detroit, MI","Ardmore, OK",1,913
+SEA,AST,"Seattle, WA","Astoria, OR",11,116
+SYR,ATL,"Syracuse, NY","Atlanta, GA",62,793
+YIP,PDK,"Detroit, MI","Atlanta, GA",1,578
+YIP,FTY,"Detroit, MI","Atlanta, GA",1,586
+MCO,AGS,"Orlando, FL","Augusta, GA",1,342
+BOS,AUG,"Boston, MA","Augusta, ME",101,148
+BTV,WVL,"Burlington, VT","Augusta, ME",1,172
+MSP,BKW,"Minneapolis, MN","Beckley, WV",1,796
+YIP,BFR,"Detroit, MI","Bedford, IN",1,0
+MSP,BJI,"Minneapolis, MN","Bemidji, MN",90,199
+GFK,VWL,"Grand Forks, ND","Bemidji, MN",23,118
+FCA,BZN,"Kalispell, MT","Bozeman, MT",1,228
+OKC,BKG,"Oklahoma City, OK","Branson, MO",1,259
+CHO,BUF,"Charlottesville, VA","Buffalo, NY",1,331
+BWI,ORD,"Baltimore, MD","Chicago, IL",1,621
+CLE,MDW,"Cleveland, OH","Chicago, IL",25,307
+SPI,CGX,"Springfield, IL","Chicago, IL",64,176
+YIP,PWK,"Detroit, MI","Chicago, IL",1,225
+YIP,DPA,"Detroit, MI","Chicago, IL",5,243
+LIT,II2,"Little Rock, AR","Chicago, IL",1,525
+LAX,CHI,"Los Angeles, CA","Chicago, IL",12,1751
+RST,CWI,"Rochester, MN","Clinton, IA",1,181
+YIP,DCU,"Detroit, MI","Decatur, AL",1,555
+ORD,DEC,"Chicago, IL","Decatur, IL",1,156
+LRD,DRT,"Laredo, TX","Del Rio, TX",1,154
+ANC,DLF,"Anchorage, AK","Del Rio, TX",24,3130
+MSN,DTW,"Madison, WI","Detroit, MI",32,312
+DTW,DET,"Detroit, MI","Detroit, MI",1,22
+DTW,YIP,"Detroit, MI","Detroit, MI",1,10
+BFF,DBQ,"Scottsbluff, NE","Dubuque, IA",1,663
+FMN,DRO,"Farmington, NM","Durango, CO",50,39
+ABQ,AMK,"Albuquerque, NM","Durango, CO",1,165
+SFO,ELP,"San Francisco, CA","El Paso, TX",11,993
+MCI,BIF,"Kansas City, MO","El Paso, TX",1,832
+YIP,EKI,"Detroit, MI","Elkhart, IN",1,132
+YIP,FDY,"Detroit, MI","Findlay, OH",1,85
+YIP,FET,"Detroit, MI","Fremont, NE",1,672
+DTW,GAD,"Detroit, MI","Gadsden, AL",1,588
+YIP,MS1,"Detroit, MI","Grenada, MS",1,673
+OAK,VWD,"Oakland, CA","Hanford, CA",2,173
+OPF,HKY,"Miami, FL","Hickory, NC",2,681
+LRD,HLM,"Laredo, TX","Holland, MI",2,1288
+GSO,MI2,"Greensboro, NC","Holland, MI",1,565
+AMA,HOU,"Amarillo, TX","Houston, TX",1,538
+ICT,IAH,"Wichita, KS","Houston, TX",1,542
+IAH,EFD,"Houston, TX","Houston, TX",198,28

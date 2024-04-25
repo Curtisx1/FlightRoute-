@@ -1,9 +1,23 @@
 import pandas as pd
 import networkx as nx
+import matplotlib.pyplot as plt
 
 # Load data from CSV file (flights.csv)
 file_path = 'D:/dev/FlightRoute-/flights.csv'
 flights_data = pd.read_csv(file_path)
+
+# Create a directed graph
+flights_graph = nx.DiGraph()
+
+# Add nodes and edges from the DataFrame
+for idx, row in flights_data.iterrows():
+    flights_graph.add_edge(row['Origin_airport'], row['Destination_airport'], weight=row['Distance'])
+
+# Assuming your flights_graph is already created
+pos = nx.spring_layout(flights_graph)  # positions for all nodes
+nx.draw(flights_graph, pos, with_labels=True)
+edge_labels = nx.get_edge_attributes(flights_graph, 'weight')
+nx.draw_networkx_edge_labels(flights_graph, pos, edge_labels=edge_labels)
 
 # Used to print options
 destination_airports = [
@@ -23,13 +37,6 @@ destination_airports = [
     "YIP", "DBQ", "DRO", "AMK", "ELP", "BIF", "EKI", "FDY", "FET", "GAD", "MS1", "VWD", "HKY", "HLM", 
     "MI2", "HOU", "IAH", "EFD"
 ]
-
-# Create a directed graph
-flights_graph = nx.DiGraph()
-
-# Add nodes and edges from the DataFrame
-for idx, row in flights_data.iterrows():
-    flights_graph.add_edge(row['Origin_airport'], row['Destination_airport'], weight=row['Distance'])
 
 # Function to find the shortest path using Dijkstra's algorithm
 def dijkstra(graph, start):
@@ -85,12 +92,20 @@ def unreachable_airports(graph, source):
     unreachable = all_nodes - reachable
     return unreachable
 
+def view_graph():
+    plt.show()
+
+view = input("Do you want to view a visual of the flight graph? yes/no\n").upper()
+if view == "YES":
+    plt.show()
 # Execute Dijkstra's algorithm to find shortest paths from user input
 print("1. Find the shortest flight from two airports.")
 
 view_airports = input("Do you need a printed list of available airports? yes/no\n").upper()
 if view_airports == "YES":
+    print("Airport Choices:\n")
     print(destination_airports)
+    print("\n")
 
 while True:
     outgoing_choice = input("Enter the outgoing airport (Three letter airport code.)\n").upper()
@@ -126,7 +141,7 @@ else:
 # Check unreachable airports from user selected airport
 unreachable_choice = input("2. Enter an airport code to find unreachable airports (Three letter airport code. Example: Kansas City Airport = MCI)\n").upper()
 unreachable = unreachable_airports(flights_graph, unreachable_choice)
-print(f"Unreachable airports from {unreachable_choice}:", unreachable)
+print(f"Unreachable airports from {unreachable_choice}:\n", unreachable)
 print("\n")
 
 # Identify top 5 hubs
